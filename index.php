@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
     </head>
         <body>
-
+           <form action="menu.php" method="get">
         <div>
             <label for="username">Username:</label>
             <input type="text" id="username" name="username">
@@ -18,6 +18,6 @@
 
         <input type="submit" value="Sign in">
             
-            
+           </form>  
         </body>
 </html>
